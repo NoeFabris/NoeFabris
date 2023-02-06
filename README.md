@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at De'Longhi Group<br>🌱 I’m currently learning Electron<br>⚡ Fun fact, my name is Noè
+🔭 I’m currently working at De'Longhi Group
 
 
 ## 🌐 Socials:
