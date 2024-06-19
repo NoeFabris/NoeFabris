@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at De'Longhi Group
+🔭
 
 
 ## 🌐 Socials:
