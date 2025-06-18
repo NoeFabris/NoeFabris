@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a front-end developer at Wilko.com!<br>🌱 I’m also exploring Next.js and integrating AI-powered features in web applications
+🔭 Building HelpyTravel, a B2B SaaS for property managers and working as a senior front-end developer at Wilko.com!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noe-fabris) 
