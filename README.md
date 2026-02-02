@@ -6,13 +6,11 @@
 
 <br>
 
-<!-- Stats cards: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Note: the public vercel instance can't show private stats reliably (needs a token on a self-hosted deployment). -->
-
+<!-- Powered by github-readme-stats (self-hosted on Vercel) -->
 <img
   height="165"
   alt="Noè's GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=NoeFabris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  src="https://github-readme-stats-lovat-beta-38.vercel.app/api?username=NoeFabris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
 />
 
 </div>
