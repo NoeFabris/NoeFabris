@@ -10,7 +10,7 @@
 <img
   height="165"
   alt="Noè's GitHub Stats"
-  src="https://github-readme-stats-lovat-beta-38.vercel.app/api?username=NoeFabris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&v=2"
+  src="https://github-readme-stats-lovat-beta-38.vercel.app/api?username=NoeFabris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=default&v=2"
 />
 
 </div>
