@@ -14,10 +14,5 @@
   alt="Noè's GitHub Stats"
   src="https://github-readme-stats.vercel.app/api?username=NoeFabris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
 />
-<img
-  height="165"
-  alt="Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoeFabris&layout=compact&theme=tokyonight&hide_border=true"
-/>
 
 </div>
