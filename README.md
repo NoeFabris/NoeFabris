@@ -2,7 +2,7 @@
 
 # Hi, I'm Noè 👋
 
-🔭 Building <a href="https://helpytravel.com">Helpy Travel</a> • Maintaining <a href="https://github.com/NoeFabris/opencode-antigravity-auth">opencode-antigravity-auth</a> • Breaking production
+🔭 Building <a href="https://helpytravel.com">Helpy Travel</a> • Created and now maintaining <a href="https://github.com/NoeFabris/opencode-antigravity-auth">opencode-antigravity-auth</a> • Breaking production
 
 <br>
 
